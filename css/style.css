@@ -224,7 +224,8 @@
                                                                         .center_y {
                                                                             position: relative;
                                                                             top: 50%;
-                                                                            transform: translateX(-50%);
+                                                                            padding-left: 125px;
+                                                                            transform: translateX(-5%);
                                                                         }
                                                                         
                                                                         .center_x {
